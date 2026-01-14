@@ -70,10 +70,9 @@ streamlit run streamlit_app.py
 }
 
 
-
+```
 ---
 
-```
 📊 Fairness Metrics Explained
 
 Fairness Gap (%)
@@ -84,7 +83,7 @@ Measures bias reduction after applying fair ranking
 
 Lower values indicate better fairness.
 
-
+```
 ---
 
 
@@ -93,7 +92,7 @@ Lower values indicate better fairness.
 Pragati
 Mathematics & Computing Student
 Project built for learning and showcasing fairness-aware AI systems.
-
+```
 ---
 
 ⭐ Future Improvements
