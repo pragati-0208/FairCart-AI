@@ -51,7 +51,7 @@ faircart-ai/
 
 ---
 
-```
+
 
 ## ▶️ How to Run Locally
 
@@ -69,7 +69,7 @@ streamlit run streamlit_app.py
   ]
 }
 
-```
+
 
 ---
 
@@ -84,18 +84,18 @@ Measures bias reduction after applying fair ranking
 
 Lower values indicate better fairness.
 
-```
+
 ---
-```
+
 
 👩‍💻 Author
 
 Pragati
 Mathematics & Computing Student
 Project built for learning and showcasing fairness-aware AI systems.
-```
+
 ---
-```
+
 ⭐ Future Improvements
 
 Support for multiple protected attributes
