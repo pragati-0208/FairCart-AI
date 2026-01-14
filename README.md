@@ -89,7 +89,7 @@ Lower values indicate better fairness.
 
 ## 👩‍💻 Author
 
-**Pragati**
+**Pragati Gupta**
 
 
 -Mathematics & Computing Student
@@ -112,6 +112,6 @@ Lower values indicate better fairness.
 ---
 
 
-##📜 License
+## 📜 License
 
 This project is open-source and free to use for learning and research.
