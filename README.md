@@ -1,5 +1,13 @@
 # 🛒 FairCart AI – Bias-Aware Product Ranking
 
+---
+## 🚀Live Demo
+
+🔗 **Try FairCart AI here:**  
+
+https://faircart-ai-2djleyssiqbm6q9kgvib5f.streamlit.app/
+
+
 FairCart AI is a fairness-aware product ranking system that detects and reduces demographic bias
 in e-commerce recommendations while preserving ranking relevance.
 
