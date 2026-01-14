@@ -90,8 +90,8 @@ Lower values indicate better fairness.
 ## 👩‍💻 Author
 
 **Pragati**
-Mathematics & Computing Student
-Project built for learning and showcasing fairness-aware AI systems.
+-Mathematics & Computing Student
+-Project built for learning and showcasing fairness-aware AI systems.
 
 ---
 
