@@ -51,6 +51,8 @@ faircart-ai/
 
 ---
 
+```
+
 ## ▶️ How to Run Locally
 
 ```bash
@@ -67,7 +69,11 @@ streamlit run streamlit_app.py
   ]
 }
 
+```
 
+---
+
+```
 📊 Fairness Metrics Explained
 
 Fairness Gap (%)
@@ -78,13 +84,18 @@ Measures bias reduction after applying fair ranking
 
 Lower values indicate better fairness.
 
+```
+---
+```
 
 👩‍💻 Author
 
 Pragati
 Mathematics & Computing Student
 Project built for learning and showcasing fairness-aware AI systems.
-
+```
+---
+```
 ⭐ Future Improvements
 
 Support for multiple protected attributes
@@ -94,6 +105,9 @@ Real-world datasets integration
 Advanced fairness constraints
 
 Model-based ranking
+```
+---
+```
 
 📜 License
 
