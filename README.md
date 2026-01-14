@@ -73,7 +73,7 @@ streamlit run streamlit_app.py
 ```
 ---
 
-📊 Fairness Metrics Explained
+## 📊 Fairness Metrics Explained
 
 Fairness Gap (%)
 Absolute difference between men and women representation
@@ -83,31 +83,31 @@ Measures bias reduction after applying fair ranking
 
 Lower values indicate better fairness.
 
-```
+
 ---
 
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Pragati
+**Pragati**
 Mathematics & Computing Student
 Project built for learning and showcasing fairness-aware AI systems.
-```
+
 ---
 
-⭐ Future Improvements
+## ⭐ Future Improvements
 
-Support for multiple protected attributes
+-Support for multiple protected attributes
 
-Real-world datasets integration
+-Real-world datasets integration
 
-Advanced fairness constraints
+-Advanced fairness constraints
 
-Model-based ranking
-```
+-Model-based ranking
+
 ---
-```
 
-📜 License
+
+##📜 License
 
 This project is open-source and free to use for learning and research.
